@@ -1,0 +1,904 @@
+[2025-10-14 10:21:50] Service key to use is: /app/twingate-service-key/service-key.json.
+[2025-10-14 10:21:50] Retry interval is set to 30 seconds.
+[2025-10-14 10:21:50] [Twingate Gateway] Waiting for tunnel interface (sdwan0) to be available... (attempt 1/12)
+Twingate Setup 2025.175.154516 | 0.171.0
+Copying service key
+Setup is complete.
+[2025-10-14 10:21:50] Start twingate...
+Starting Twingate service in headless mode
+[92mTwingate has been started[0m
+Waiting for status...
+Online: User
+[2025-10-14 10:21:55] [Twingate Gateway] Tunnel interface: sdwan0
+[2025-10-14 10:21:55] [Twingate Gateway] Warning: Cannot enable /proc/sys/net/ipv4/ip_forward (read-only).
+/app/entrypoint.sh: line 105: [: missing `]'
+[2025-10-14 10:21:55] [Twingate Gateway] Routing active. Forwarding Windows traffic through Twingate.
+[2025-10-14 10:22:20] Twingate is connected.
+[2025-10-14 10:23:20] Twingate is connected.
+[2025-10-14 10:24:37] Service key to use is: /app/twingate-service-key/service-key.json.
+[2025-10-14 10:24:37] Retry interval is set to 30 seconds.
+[2025-10-14 10:24:37] [Twingate Gateway] Waiting for tunnel interface (sdwan0) to be available... (attempt 1/12)
+Twingate Setup 2025.175.154516 | 0.171.0
+Copying service key
+Setup is complete.
+[2025-10-14 10:24:38] Start twingate...
+Starting Twingate service in headless mode
+[92mTwingate has been started[0m
+Waiting for status...
+[2025-10-14 10:24:43] [Twingate Gateway] Tunnel interface: sdwan0
+[2025-10-14 10:24:43] [Twingate Gateway] Warning: Cannot enable /proc/sys/net/ipv4/ip_forward (read-only).
+update-alternatives: using /usr/sbin/iptables-legacy to provide /usr/sbin/iptables (iptables) in manual mode
+[2025-10-14 10:24:43] [Twingate Gateway] Iptables legacy mode enabled.
+[2025-10-14 10:24:43] [Twingate Gateway] Routing active. Forwarding Windows traffic through Twingate.
+Online: User
+[2025-10-14 10:25:08] Twingate is connected.
+[2025-10-14 10:26:08] Twingate is connected.
+[2025-10-14 10:27:08] Twingate is connected.
+[2025-10-14 10:28:08] Twingate is connected.
+[2025-10-14 10:29:08] Twingate is connected.
+[2025-10-14 10:30:08] Twingate is connected.
+[2025-10-14 10:31:08] Twingate is connected.
+[2025-10-14 10:32:08] Twingate is connected.
+[2025-10-14 10:33:08] Twingate is connected.
+[2025-10-14 10:34:09] Twingate is connected.
+[2025-10-14 10:35:09] Twingate is connected.
+[2025-10-14 10:36:09] Twingate is connected.
+[2025-10-14 10:37:09] Twingate is connected.
+[2025-10-14 10:40:43] Service key to use is: /app/twingate-service-key/service-key.json.
+[2025-10-14 10:40:43] Retry interval is set to 30 seconds.
+[2025-10-14 10:40:43] [Twingate Gateway] Waiting for tunnel interface (sdwan0) to be available... (attempt 1/12)
+Twingate Setup 2025.175.154516 | 0.171.0
+Copying service key
+Setup is complete.
+[2025-10-14 10:40:43] Start twingate...
+Starting Twingate service in headless mode
+[92mTwingate has been started[0m
+Waiting for status...
+[2025-10-14 10:40:48] [Twingate Gateway] Tunnel interface: sdwan0
+[2025-10-14 10:40:48] [Twingate Gateway] Warning: Cannot enable /proc/sys/net/ipv4/ip_forward (read-only).
+update-alternatives: using /usr/sbin/iptables-legacy to provide /usr/sbin/iptables (iptables) in manual mode
+[2025-10-14 10:40:48] [Twingate Gateway] Iptables legacy mode enabled.
+[2025-10-14 10:40:48] [Twingate Gateway] Routing active. Forwarding Windows traffic through Twingate.
+Online: User
+[2025-10-14 10:41:13] Twingate is connected.
+[2025-10-14 10:42:14] Twingate is connected.
+[2025-10-14 10:43:14] Twingate is connected.
+[2025-10-14 10:44:14] Twingate is connected.
+[2025-10-14 10:45:14] Twingate is connected.
+[2025-10-14 10:46:14] Twingate is connected.
+[2025-10-14 10:47:14] Twingate is connected.
+[2025-10-14 10:48:14] Twingate is connected.
+[2025-10-14 10:49:14] Twingate is connected.
+[2025-10-14 10:50:14] Twingate is connected.
+[2025-10-14 10:51:14] Twingate is connected.
+[2025-10-14 10:52:14] Twingate is connected.
+[2025-10-14 10:53:15] Twingate is connected.
+[2025-10-14 10:54:15] Twingate is connected.
+[2025-10-14 10:55:15] Twingate is connected.
+[2025-10-14 10:56:15] Twingate is connected.
+[2025-10-14 10:57:15] Twingate is connected.
+[2025-10-14 10:58:15] Twingate is connected.
+[2025-10-14 10:59:15] Twingate is connected.
+[2025-10-14 11:00:15] Twingate is connected.
+[2025-10-14 11:01:15] Twingate is connected.
+[2025-10-14 11:02:15] Twingate is connected.
+[2025-10-14 11:03:15] Twingate is connected.
+[2025-10-14 11:04:16] Twingate is connected.
+[2025-10-14 11:05:16] Twingate is connected.
+[2025-10-14 11:06:16] Twingate is connected.
+[2025-10-14 11:07:16] Twingate is connected.
+[2025-10-14 11:08:16] Twingate is connected.
+[2025-10-14 11:09:16] Twingate is connected.
+[2025-10-14 11:10:16] Twingate is connected.
+[2025-10-14 11:11:16] Twingate is connected.
+[2025-10-14 11:12:16] Twingate is connected.
+[2025-10-14 11:13:16] Twingate is connected.
+[2025-10-14 11:14:16] Twingate is connected.
+[2025-10-14 11:15:17] Twingate is connected.
+[2025-10-14 11:16:17] Twingate is connected.
+[2025-10-14 11:17:17] Twingate is connected.
+[2025-10-14 11:18:17] Twingate is connected.
+[2025-10-14 11:19:17] Twingate is connected.
+[2025-10-14 11:20:17] Twingate is connected.
+[2025-10-14 11:21:17] Twingate is connected.
+[2025-10-14 11:22:17] Twingate is connected.
+[2025-10-14 11:23:17] Twingate is connected.
+[2025-10-14 11:24:17] Twingate is connected.
+[2025-10-14 11:25:18] Twingate is connected.
+[2025-10-14 11:26:18] Twingate is connected.
+[2025-10-14 11:27:18] Twingate is connected.
+[2025-10-14 11:28:18] Twingate is connected.
+[2025-10-14 11:29:18] Twingate is connected.
+[2025-10-14 11:30:18] Twingate is connected.
+[2025-10-14 11:31:18] Twingate is connected.
+[2025-10-14 11:32:18] Twingate is connected.
+[2025-10-14 11:33:18] Twingate is connected.
+[2025-10-14 11:34:19] Twingate is connected.
+[2025-10-14 11:35:19] Twingate is connected.
+[2025-10-14 11:36:19] Twingate is connected.
+[2025-10-14 11:37:19] Twingate is connected.
+[2025-10-14 11:38:19] Twingate is connected.
+[2025-10-14 11:39:19] Twingate is connected.
+[2025-10-14 11:40:19] Twingate is connected.
+[2025-10-14 11:41:19] Twingate is connected.
+[2025-10-14 11:42:19] Twingate is connected.
+[2025-10-14 11:43:19] Twingate is connected.
+[2025-10-14 11:44:19] Twingate is connected.
+[2025-10-14 11:45:19] Twingate is connected.
+[2025-10-14 11:46:19] Twingate is connected.
+[2025-10-14 11:47:19] Twingate is connected.
+[2025-10-14 11:48:19] Twingate is connected.
+[2025-10-14 11:49:19] Twingate is connected.
+[2025-10-14 11:50:19] Twingate is connected.
+[2025-10-14 11:51:19] Twingate is connected.
+[2025-10-14 11:52:19] Twingate is connected.
+[2025-10-14 11:53:20] Twingate is connected.
+[2025-10-14 11:54:20] Twingate is connected.
+[2025-10-14 11:55:20] Twingate is connected.
+[2025-10-14 11:56:20] Twingate is connected.
+[2025-10-14 11:57:20] Twingate is connected.
+[2025-10-14 11:58:20] Twingate is connected.
+[2025-10-14 11:59:20] Twingate is connected.
+[2025-10-14 12:00:20] Twingate is connected.
+[2025-10-14 12:01:20] Twingate is connected.
+[2025-10-14 12:02:20] Twingate is connected.
+[2025-10-14 12:03:20] Twingate is connected.
+[2025-10-14 12:04:20] Twingate is connected.
+[2025-10-14 12:05:20] Twingate is connected.
+[2025-10-14 12:06:20] Twingate is connected.
+[2025-10-14 12:07:20] Twingate is connected.
+[2025-10-14 12:08:20] Twingate is connected.
+[2025-10-14 12:09:20] Twingate is connected.
+[2025-10-14 12:10:20] Twingate is connected.
+[2025-10-14 12:11:20] Twingate is connected.
+[2025-10-14 12:12:20] Twingate is connected.
+[2025-10-14 12:13:21] Twingate is connected.
+[2025-10-14 12:14:21] Twingate is connected.
+[2025-10-14 12:15:21] Twingate is connected.
+[2025-10-14 12:16:21] Twingate is connected.
+[2025-10-14 12:17:21] Twingate is connected.
+[2025-10-14 12:18:21] Twingate is connected.
+[2025-10-14 12:19:21] Twingate is connected.
+[2025-10-14 12:20:21] Twingate is connected.
+[2025-10-14 12:21:21] Twingate is connected.
+[2025-10-14 12:22:21] Twingate is connected.
+[2025-10-14 12:23:21] Twingate is connected.
+[2025-10-14 12:24:21] Twingate is connected.
+[2025-10-14 12:25:21] Twingate is connected.
+[2025-10-14 12:26:21] Twingate is connected.
+[2025-10-14 12:27:21] Twingate is connected.
+[2025-10-14 12:28:21] Twingate is connected.
+[2025-10-14 12:29:22] Twingate is connected.
+[2025-10-14 12:30:22] Twingate is connected.
+[2025-10-14 12:31:22] Twingate is connected.
+[2025-10-14 12:32:22] Twingate is connected.
+[2025-10-14 12:33:22] Twingate is connected.
+[2025-10-14 12:34:22] Twingate is connected.
+[2025-10-14 12:35:22] Twingate is connected.
+[2025-10-14 12:36:22] Twingate is connected.
+[2025-10-14 12:37:22] Twingate is connected.
+[2025-10-14 12:38:22] Twingate is connected.
+[2025-10-14 12:39:22] Twingate is connected.
+[2025-10-14 12:40:22] Twingate is connected.
+[2025-10-14 12:41:22] Twingate is connected.
+[2025-10-14 12:42:22] Twingate is connected.
+[2025-10-14 12:43:22] Twingate is connected.
+[2025-10-14 12:44:22] Twingate is connected.
+[2025-10-14 12:45:23] Twingate is connected.
+[2025-10-14 12:46:23] Twingate is connected.
+[2025-10-14 12:47:23] Twingate is connected.
+[2025-10-14 12:48:23] Twingate is connected.
+[2025-10-14 12:49:23] Twingate is connected.
+[2025-10-14 12:50:23] Twingate is connected.
+[2025-10-14 12:51:23] Twingate is connected.
+[2025-10-14 12:52:23] Twingate is connected.
+[2025-10-14 12:53:23] Twingate is connected.
+[2025-10-14 12:54:23] Twingate is connected.
+[2025-10-14 12:55:23] Twingate is connected.
+[2025-10-14 12:56:23] Twingate is connected.
+[2025-10-14 12:57:23] Twingate is connected.
+[2025-10-14 12:58:23] Twingate is connected.
+[2025-10-14 12:59:23] Twingate is connected.
+[2025-10-14 13:00:23] Twingate is connected.
+[2025-10-14 13:01:23] Twingate is connected.
+[2025-10-14 13:02:23] Twingate is connected.
+[2025-10-14 13:03:23] Twingate is connected.
+[2025-10-14 13:04:24] Twingate is connected.
+[2025-10-14 13:05:24] Twingate is connected.
+[2025-10-14 13:06:24] Twingate is connected.
+[2025-10-14 13:07:24] Twingate is connected.
+[2025-10-14 13:08:24] Twingate is connected.
+[2025-10-14 13:09:24] Twingate is connected.
+[2025-10-14 13:10:24] Twingate is connected.
+[2025-10-14 13:11:24] Twingate is connected.
+[2025-10-14 13:12:24] Twingate is connected.
+[2025-10-14 13:13:24] Twingate is connected.
+[2025-10-14 13:14:24] Twingate is connected.
+[2025-10-14 13:15:24] Twingate is connected.
+[2025-10-14 13:16:24] Twingate is connected.
+[2025-10-14 13:17:24] Twingate is connected.
+[2025-10-14 13:18:24] Twingate is connected.
+[2025-10-14 13:19:24] Twingate is connected.
+[2025-10-14 13:20:24] Twingate is connected.
+[2025-10-14 13:21:24] Twingate is connected.
+[2025-10-14 13:22:24] Twingate is connected.
+[2025-10-14 13:23:24] Twingate is connected.
+[2025-10-14 13:24:25] Twingate is connected.
+[2025-10-14 13:25:25] Twingate is connected.
+[2025-10-14 13:26:25] Twingate is connected.
+[2025-10-14 13:27:25] Twingate is connected.
+[2025-10-14 13:28:25] Twingate is connected.
+[2025-10-14 13:29:25] Twingate is connected.
+[2025-10-14 13:30:25] Twingate is connected.
+[2025-10-14 13:31:25] Twingate is connected.
+[2025-10-14 13:32:25] Twingate is connected.
+[2025-10-14 13:33:25] Twingate is connected.
+[2025-10-14 13:34:25] Twingate is connected.
+[2025-10-14 13:35:25] Twingate is connected.
+[2025-10-14 13:36:25] Twingate is connected.
+[2025-10-14 13:37:25] Twingate is connected.
+[2025-10-14 13:38:26] Twingate is connected.
+[2025-10-14 13:39:26] Twingate is connected.
+[2025-10-14 13:40:26] Twingate is connected.
+[2025-10-14 13:41:26] Twingate is connected.
+[2025-10-14 13:43:14] Twingate is connected.
+[2025-10-14 13:44:14] Twingate is connected.
+[2025-10-14 13:45:14] Twingate is connected.
+[2025-10-14 13:46:14] Twingate is connected.
+[2025-10-14 13:47:14] Twingate is connected.
+[2025-10-14 13:48:14] Twingate is connected.
+[2025-10-14 13:49:14] Twingate is connected.
+[2025-10-14 13:50:14] Twingate is connected.
+[2025-10-14 13:51:14] Twingate is connected.
+[2025-10-14 13:52:14] Twingate is connected.
+[2025-10-14 13:53:15] Twingate is connected.
+[2025-10-14 13:54:15] Twingate is connected.
+[2025-10-14 13:55:15] Twingate is connected.
+[2025-10-14 13:56:15] Twingate is connected.
+[2025-10-14 13:57:15] Twingate is connected.
+[2025-10-14 13:58:15] Twingate is connected.
+[2025-10-14 13:59:15] Twingate is connected.
+[2025-10-14 14:00:15] Twingate is connected.
+[2025-10-14 14:01:15] Twingate is connected.
+[2025-10-14 14:02:15] Twingate is connected.
+[2025-10-14 14:03:15] Twingate is connected.
+[2025-10-14 14:04:15] Twingate is connected.
+[2025-10-14 14:05:15] Twingate is connected.
+[2025-10-14 14:06:15] Twingate is connected.
+[2025-10-14 14:07:15] Twingate is connected.
+[2025-10-14 14:08:15] Twingate is connected.
+[2025-10-14 14:09:15] Twingate is connected.
+[2025-10-14 14:10:15] Twingate is connected.
+[2025-10-14 14:11:15] Twingate is connected.
+[2025-10-14 14:12:15] Twingate is connected.
+[2025-10-14 14:13:15] Twingate is connected.
+[2025-10-14 14:14:15] Twingate is connected.
+[2025-10-14 14:15:15] Twingate is connected.
+[2025-10-14 14:16:16] Twingate is connected.
+[2025-10-14 14:17:16] Twingate is connected.
+[2025-10-14 14:18:16] Twingate is connected.
+[2025-10-14 14:19:16] Twingate is connected.
+[2025-10-14 14:20:16] Twingate is connected.
+[2025-10-14 14:21:16] Twingate is connected.
+[2025-10-14 14:22:16] Twingate is connected.
+[2025-10-14 14:23:16] Twingate is connected.
+[2025-10-14 14:24:16] Twingate is connected.
+[2025-10-14 14:25:16] Twingate is connected.
+[2025-10-14 14:26:16] Twingate is connected.
+[2025-10-14 14:27:16] Twingate is connected.
+[2025-10-14 14:28:16] Twingate is connected.
+[2025-10-14 14:29:16] Twingate is connected.
+[2025-10-14 14:30:16] Twingate is connected.
+[2025-10-14 14:31:16] Twingate is connected.
+[2025-10-14 14:32:16] Twingate is connected.
+[2025-10-14 14:33:16] Twingate is connected.
+[2025-10-14 14:34:16] Twingate is connected.
+[2025-10-14 14:35:17] Twingate is connected.
+[2025-10-14 14:36:17] Twingate is connected.
+[2025-10-14 14:37:17] Twingate is connected.
+[2025-10-14 14:38:17] Twingate is connected.
+[2025-10-14 14:39:17] Twingate is connected.
+[2025-10-14 14:40:17] Twingate is connected.
+[2025-10-14 14:41:17] Twingate is connected.
+[2025-10-14 14:42:17] Twingate is connected.
+[2025-10-14 14:43:17] Twingate is connected.
+[2025-10-14 14:44:17] Twingate is connected.
+[2025-10-14 14:45:17] Twingate is connected.
+[2025-10-14 14:46:17] Twingate is connected.
+[2025-10-14 14:47:17] Twingate is connected.
+[2025-10-14 14:48:17] Twingate is connected.
+[2025-10-14 14:49:17] Twingate is connected.
+[2025-10-14 14:50:17] Twingate is connected.
+[2025-10-14 14:51:17] Twingate is connected.
+[2025-10-14 14:52:17] Twingate is connected.
+[2025-10-14 14:53:17] Twingate is connected.
+[2025-10-14 14:54:17] Twingate is connected.
+[2025-10-14 14:55:17] Twingate is connected.
+[2025-10-14 14:56:17] Twingate is connected.
+[2025-10-14 14:57:18] Twingate is connected.
+[2025-10-14 14:58:18] Twingate is connected.
+[2025-10-14 14:59:18] Twingate is connected.
+[2025-10-14 15:00:18] Twingate is connected.
+[2025-10-14 15:01:18] Twingate is connected.
+[2025-10-14 15:02:18] Twingate is connected.
+[2025-10-14 15:03:18] Twingate is connected.
+[2025-10-14 15:04:18] Twingate is connected.
+[2025-10-14 15:05:18] Twingate is connected.
+[2025-10-14 15:06:18] Twingate is connected.
+[2025-10-14 15:07:18] Twingate is connected.
+[2025-10-14 15:08:18] Twingate is connected.
+[2025-10-14 15:09:18] Twingate is connected.
+[2025-10-14 15:10:18] Twingate is connected.
+[2025-10-14 15:11:18] Twingate is connected.
+[2025-10-14 15:12:18] Twingate is connected.
+[2025-10-14 15:13:18] Twingate is connected.
+[2025-10-14 15:14:18] Twingate is connected.
+[2025-10-14 15:15:18] Twingate is connected.
+[2025-10-14 15:16:18] Twingate is connected.
+[2025-10-14 15:17:18] Twingate is connected.
+[2025-10-14 15:18:18] Twingate is connected.
+[2025-10-14 15:19:18] Twingate is connected.
+[2025-10-14 15:20:19] Twingate is connected.
+[2025-10-14 15:21:19] Twingate is connected.
+[2025-10-14 15:22:19] Twingate is connected.
+[2025-10-14 15:23:19] Twingate is connected.
+[2025-10-14 15:24:19] Twingate is connected.
+[2025-10-14 15:25:19] Twingate is connected.
+[2025-10-14 15:26:19] Twingate is connected.
+[2025-10-14 15:27:19] Twingate is connected.
+[2025-10-14 15:28:19] Twingate is connected.
+[2025-10-14 15:29:19] Twingate is connected.
+[2025-10-14 15:30:19] Twingate is connected.
+[2025-10-14 15:31:19] Twingate is connected.
+[2025-10-14 15:32:19] Twingate is connected.
+[2025-10-14 15:33:19] Twingate is connected.
+[2025-10-14 15:34:19] Twingate is connected.
+[2025-10-14 15:35:19] Twingate is connected.
+[2025-10-14 15:36:20] Twingate is connected.
+[2025-10-14 15:37:20] Twingate is connected.
+[2025-10-14 15:38:20] Twingate is connected.
+[2025-10-14 15:39:20] Twingate is connected.
+[2025-10-14 15:40:20] Twingate is connected.
+[2025-10-14 15:41:20] Twingate is connected.
+[2025-10-14 15:42:21] Twingate is connected.
+[2025-10-14 15:43:21] Twingate is connected.
+[2025-10-14 15:44:21] Twingate is connected.
+[2025-10-14 15:45:21] Twingate is connected.
+[2025-10-14 15:46:21] Twingate is connected.
+[2025-10-14 15:47:21] Twingate is connected.
+[2025-10-14 15:48:21] Twingate is connected.
+[2025-10-14 15:49:21] Twingate is connected.
+[2025-10-14 15:50:21] Twingate is connected.
+[2025-10-14 15:51:22] Twingate is connected.
+[2025-10-14 15:52:22] Twingate is connected.
+[2025-10-14 15:53:22] Twingate is connected.
+[2025-10-14 15:54:22] Twingate is connected.
+[2025-10-14 15:55:22] Twingate is connected.
+[2025-10-14 15:56:22] Twingate is connected.
+[2025-10-14 15:57:22] Twingate is connected.
+[2025-10-14 15:58:22] Twingate is connected.
+[2025-10-14 15:59:23] Twingate is connected.
+[2025-10-14 16:00:23] Twingate is connected.
+[2025-10-14 16:01:23] Twingate is connected.
+[2025-10-14 16:02:23] Twingate is connected.
+[2025-10-14 16:03:23] Twingate is connected.
+[2025-10-14 16:04:23] Twingate is connected.
+[2025-10-14 16:05:23] Twingate is connected.
+[2025-10-14 16:06:23] Twingate is connected.
+[2025-10-14 16:07:24] Twingate is connected.
+[2025-10-14 16:08:24] Twingate is connected.
+[2025-10-14 16:09:24] Twingate is connected.
+[2025-10-14 16:10:24] Twingate is connected.
+[2025-10-14 16:11:24] Twingate is connected.
+[2025-10-14 16:12:24] Twingate is connected.
+[2025-10-14 16:13:24] Twingate is connected.
+[2025-10-14 16:14:24] Twingate is connected.
+[2025-10-14 16:15:25] Twingate is connected.
+[2025-10-14 16:16:25] Twingate is connected.
+[2025-10-14 16:17:25] Twingate is connected.
+[2025-10-14 16:18:25] Twingate is connected.
+[2025-10-14 16:19:25] Twingate is connected.
+[2025-10-14 16:20:25] Twingate is connected.
+[2025-10-14 16:21:25] Twingate is connected.
+[2025-10-14 16:22:25] Twingate is connected.
+[2025-10-14 16:23:25] Twingate is connected.
+[2025-10-14 16:24:25] Twingate is connected.
+[2025-10-14 16:25:26] Twingate is connected.
+[2025-10-14 16:26:26] Twingate is connected.
+[2025-10-14 16:27:26] Twingate is connected.
+[2025-10-14 16:28:26] Twingate is connected.
+[2025-10-14 16:29:26] Twingate is connected.
+[2025-10-14 16:30:26] Twingate is connected.
+[2025-10-14 16:31:27] Twingate is connected.
+[2025-10-14 16:32:27] Twingate is connected.
+[2025-10-14 16:33:27] Twingate is connected.
+[2025-10-14 16:34:27] Twingate is connected.
+[2025-10-14 16:35:27] Twingate is connected.
+[2025-10-14 16:36:27] Twingate is connected.
+[2025-10-14 16:37:27] Twingate is connected.
+[2025-10-14 16:38:27] Twingate is connected.
+[2025-10-14 16:39:27] Twingate is connected.
+[2025-10-14 16:40:28] Twingate is connected.
+[2025-10-14 16:41:28] Twingate is connected.
+[2025-10-14 16:42:28] Twingate is connected.
+[2025-10-14 16:43:28] Twingate is connected.
+[2025-10-14 16:44:28] Twingate is connected.
+[2025-10-14 16:45:28] Twingate is connected.
+[2025-10-14 16:46:28] Twingate is connected.
+[2025-10-14 16:47:28] Twingate is connected.
+[2025-10-14 16:48:29] Twingate is connected.
+[2025-10-14 16:49:29] Twingate is connected.
+[2025-10-14 16:50:29] Twingate is connected.
+[2025-10-14 16:51:29] Twingate is connected.
+[2025-10-14 16:52:29] Twingate is connected.
+[2025-10-14 16:53:29] Twingate is connected.
+[2025-10-14 16:54:29] Twingate is connected.
+[2025-10-14 16:55:29] Twingate is connected.
+[2025-10-14 16:56:30] Twingate is connected.
+[2025-10-14 16:57:30] Twingate is connected.
+[2025-10-14 16:58:30] Twingate is connected.
+[2025-10-14 16:59:30] Twingate is connected.
+[2025-10-14 17:00:30] Twingate is connected.
+[2025-10-14 17:01:30] Twingate is connected.
+[2025-10-14 17:02:30] Twingate is connected.
+[2025-10-14 17:03:30] Twingate is connected.
+[2025-10-14 17:04:30] Twingate is connected.
+[2025-10-14 17:05:30] Twingate is connected.
+[2025-10-14 17:06:31] Twingate is connected.
+[2025-10-14 17:07:31] Twingate is connected.
+[2025-10-14 17:08:31] Twingate is connected.
+[2025-10-14 17:09:31] Twingate is connected.
+[2025-10-14 17:10:31] Twingate is connected.
+[2025-10-14 17:11:31] Twingate is connected.
+[2025-10-14 17:12:31] Twingate is connected.
+[2025-10-14 17:13:31] Twingate is connected.
+[2025-10-14 17:14:31] Twingate is connected.
+[2025-10-14 17:15:32] Twingate is connected.
+[2025-10-14 17:16:32] Twingate is connected.
+[2025-10-14 17:17:32] Twingate is connected.
+[2025-10-14 17:18:32] Twingate is connected.
+[2025-10-14 17:19:32] Twingate is connected.
+[2025-10-14 17:20:32] Twingate is connected.
+[2025-10-14 17:21:32] Twingate is connected.
+[2025-10-14 17:22:32] Twingate is connected.
+[2025-10-14 17:23:33] Twingate is connected.
+[2025-10-14 17:24:33] Twingate is connected.
+[2025-10-14 17:25:33] Twingate is connected.
+[2025-10-14 17:26:33] Twingate is connected.
+[2025-10-14 17:27:33] Twingate is connected.
+[2025-10-14 17:28:33] Twingate is connected.
+[2025-10-14 17:29:33] Twingate is connected.
+[2025-10-14 17:30:33] Twingate is connected.
+[2025-10-14 17:31:33] Twingate is connected.
+[2025-10-14 17:32:33] Twingate is connected.
+[2025-10-14 17:33:34] Twingate is connected.
+[2025-10-14 17:34:34] Twingate is connected.
+[2025-10-14 17:35:34] Twingate is connected.
+[2025-10-14 17:36:34] Twingate is connected.
+[2025-10-14 17:37:34] Twingate is connected.
+[2025-10-14 17:38:34] Twingate is connected.
+[2025-10-14 17:39:34] Twingate is connected.
+[2025-10-14 17:40:34] Twingate is connected.
+[2025-10-14 17:41:34] Twingate is connected.
+[2025-10-14 17:42:35] Twingate is connected.
+[2025-10-14 17:43:35] Twingate is connected.
+[2025-10-14 17:44:35] Twingate is connected.
+[2025-10-14 17:45:35] Twingate is connected.
+[2025-10-14 17:46:35] Twingate is connected.
+[2025-10-14 17:47:35] Twingate is connected.
+[2025-10-14 17:48:35] Twingate is connected.
+[2025-10-14 17:49:35] Twingate is connected.
+[2025-10-14 17:50:35] Twingate is connected.
+[2025-10-14 17:51:36] Twingate is connected.
+[2025-10-14 17:52:36] Twingate is connected.
+[2025-10-14 17:53:36] Twingate is connected.
+[2025-10-14 17:54:36] Twingate is connected.
+[2025-10-14 17:55:36] Twingate is connected.
+[2025-10-14 17:56:36] Twingate is connected.
+[2025-10-14 17:57:36] Twingate is connected.
+[2025-10-14 17:58:36] Twingate is connected.
+[2025-10-14 17:59:36] Twingate is connected.
+[2025-10-14 18:00:37] Twingate is connected.
+[2025-10-14 18:01:37] Twingate is connected.
+[2025-10-14 18:02:37] Twingate is connected.
+[2025-10-14 18:03:37] Twingate is connected.
+[2025-10-14 18:04:37] Twingate is connected.
+[2025-10-14 18:05:37] Twingate is connected.
+[2025-10-14 18:06:37] Twingate is connected.
+[2025-10-14 18:07:38] Twingate is connected.
+[2025-10-14 18:08:38] Twingate is connected.
+[2025-10-14 18:09:38] Twingate is connected.
+[2025-10-14 18:10:38] Twingate is connected.
+[2025-10-14 18:11:38] Twingate is connected.
+[2025-10-14 18:12:38] Twingate is connected.
+[2025-10-14 18:13:38] Twingate is connected.
+[2025-10-14 18:14:38] Twingate is connected.
+[2025-10-14 18:15:38] Twingate is connected.
+[2025-10-14 18:16:38] Twingate is connected.
+[2025-10-14 18:17:38] Twingate is connected.
+[2025-10-14 18:18:38] Twingate is connected.
+[2025-10-14 18:19:38] Twingate is connected.
+[2025-10-14 18:20:39] Twingate is connected.
+[2025-10-14 18:21:39] Twingate is connected.
+[2025-10-14 18:22:39] Twingate is connected.
+[2025-10-14 18:23:39] Twingate is connected.
+[2025-10-14 18:24:39] Twingate is connected.
+[2025-10-14 18:25:39] Twingate is connected.
+[2025-10-14 18:26:39] Twingate is connected.
+[2025-10-14 18:27:39] Twingate is connected.
+[2025-10-14 18:28:39] Twingate is connected.
+[2025-10-14 18:29:39] Twingate is connected.
+[2025-10-14 18:30:39] Twingate is connected.
+[2025-10-14 20:51:28] Twingate is connected.
+[2025-10-14 20:52:28] Twingate is connected.
+[2025-10-14 20:53:28] Twingate is connected.
+[2025-10-14 20:54:28] Twingate is connected.
+[2025-10-14 20:55:28] Twingate is connected.
+[2025-10-14 20:56:28] Twingate is connected.
+[2025-10-14 20:57:28] Twingate is connected.
+[2025-10-14 20:58:28] Twingate is connected.
+[2025-10-14 20:59:28] Twingate is connected.
+[2025-10-14 21:00:28] Twingate is connected.
+[2025-10-14 21:01:28] Twingate is connected.
+[2025-10-14 21:02:28] Twingate is connected.
+[2025-10-14 21:03:28] Twingate is connected.
+[2025-10-14 21:04:28] Twingate is connected.
+[2025-10-14 21:05:29] Twingate is connected.
+[2025-10-14 21:06:29] Twingate is connected.
+[2025-10-14 21:07:29] Twingate is connected.
+[2025-10-14 21:08:29] Twingate is connected.
+[2025-10-14 21:09:29] Twingate is connected.
+[2025-10-14 21:10:29] Twingate is connected.
+[2025-10-14 21:11:29] Twingate is connected.
+[2025-10-14 21:12:29] Twingate is connected.
+[2025-10-14 21:13:29] Twingate is connected.
+[2025-10-14 21:14:29] Twingate is connected.
+[2025-10-14 21:15:30] Twingate is connected.
+[2025-10-14 21:16:30] Twingate is connected.
+[2025-10-14 21:17:30] Twingate is connected.
+[2025-10-14 21:18:30] Twingate is connected.
+[2025-10-14 21:19:30] Twingate is connected.
+[2025-10-14 21:20:30] Twingate is connected.
+[2025-10-14 21:21:30] Twingate is connected.
+[2025-10-14 21:22:30] Twingate is connected.
+[2025-10-14 21:23:30] Twingate is connected.
+[2025-10-14 21:24:30] Twingate is connected.
+[2025-10-14 21:25:30] Twingate is connected.
+[2025-10-14 21:26:31] Twingate is connected.
+[2025-10-14 21:27:31] Twingate is connected.
+[2025-10-14 21:28:31] Twingate is connected.
+[2025-10-14 21:29:31] Twingate is connected.
+[2025-10-14 21:30:31] Twingate is connected.
+[2025-10-14 21:31:31] Twingate is connected.
+[2025-10-14 21:32:31] Twingate is connected.
+[2025-10-14 21:33:31] Twingate is connected.
+[2025-10-14 21:34:31] Twingate is connected.
+[2025-10-14 21:35:31] Twingate is connected.
+[2025-10-14 21:36:31] Twingate is connected.
+[2025-10-14 21:37:32] Twingate is connected.
+[2025-10-14 21:38:32] Twingate is connected.
+[2025-10-14 21:39:32] Twingate is connected.
+[2025-10-14 21:40:32] Twingate is connected.
+[2025-10-14 21:41:32] Twingate is connected.
+[2025-10-14 21:42:32] Twingate is connected.
+[2025-10-14 21:43:32] Twingate is connected.
+[2025-10-14 21:44:32] Twingate is connected.
+[2025-10-14 21:45:32] Twingate is connected.
+[2025-10-14 21:46:32] Twingate is connected.
+[2025-10-14 21:47:32] Twingate is connected.
+[2025-10-14 21:48:32] Twingate is connected.
+[2025-10-14 21:49:32] Twingate is connected.
+[2025-10-14 21:50:32] Twingate is connected.
+[2025-10-14 21:51:32] Twingate is connected.
+[2025-10-14 21:52:32] Twingate is connected.
+[2025-10-14 21:53:33] Twingate is connected.
+[2025-10-14 21:54:33] Twingate is connected.
+[2025-10-14 21:55:33] Twingate is connected.
+[2025-10-14 21:56:33] Twingate is connected.
+[2025-10-14 21:57:33] Twingate is connected.
+[2025-10-14 21:58:33] Twingate is connected.
+[2025-10-14 21:59:33] Twingate is connected.
+[2025-10-14 22:00:33] Twingate is connected.
+[2025-10-14 22:01:33] Twingate is connected.
+[2025-10-14 22:02:33] Twingate is connected.
+[2025-10-14 22:03:33] Twingate is connected.
+[2025-10-14 22:04:33] Twingate is connected.
+[2025-10-14 22:05:33] Twingate is connected.
+[2025-10-14 22:06:33] Twingate is connected.
+[2025-10-14 22:07:33] Twingate is connected.
+[2025-10-14 22:08:33] Twingate is connected.
+[2025-10-14 22:09:33] Twingate is connected.
+[2025-10-14 22:10:33] Twingate is connected.
+[2025-10-14 22:11:33] Twingate is connected.
+[2025-10-14 22:12:33] Twingate is connected.
+[2025-10-14 22:13:34] Twingate is connected.
+[2025-10-14 22:14:34] Twingate is connected.
+[2025-10-14 22:15:34] Twingate is connected.
+[2025-10-14 22:16:34] Twingate is connected.
+[2025-10-14 22:17:34] Twingate is connected.
+[2025-10-14 22:18:34] Twingate is connected.
+[2025-10-14 22:19:34] Twingate is connected.
+[2025-10-14 22:21:22] Twingate is connected.
+[2025-10-14 22:22:22] Twingate is connected.
+[2025-10-14 22:23:22] Twingate is connected.
+[2025-10-14 22:24:22] Twingate is connected.
+[2025-10-14 22:25:22] Twingate is connected.
+[2025-10-14 22:26:22] Twingate is connected.
+[2025-10-14 22:27:22] Twingate is connected.
+[2025-10-14 22:28:22] Twingate is connected.
+[2025-10-14 22:29:22] Twingate is connected.
+[2025-10-14 22:30:22] Twingate is connected.
+[2025-10-14 22:31:23] Twingate is connected.
+[2025-10-14 22:32:23] Twingate is connected.
+[2025-10-14 22:33:23] Twingate is connected.
+[2025-10-14 22:34:23] Twingate is connected.
+[2025-10-14 22:35:23] Twingate is connected.
+[2025-10-14 22:36:23] Twingate is connected.
+[2025-10-14 22:37:23] Twingate is connected.
+[2025-10-14 22:38:23] Twingate is connected.
+[2025-10-14 22:39:23] Twingate is connected.
+[2025-10-14 22:40:23] Twingate is connected.
+[2025-10-14 22:41:24] Twingate is connected.
+[2025-10-14 22:42:24] Twingate is connected.
+[2025-10-14 22:43:24] Twingate is connected.
+[2025-10-14 22:44:24] Twingate is connected.
+[2025-10-14 22:45:24] Twingate is connected.
+[2025-10-14 22:46:24] Twingate is connected.
+[2025-10-14 22:47:24] Twingate is connected.
+[2025-10-14 22:48:24] Twingate is connected.
+[2025-10-14 22:49:24] Twingate is connected.
+[2025-10-14 22:50:24] Twingate is connected.
+[2025-10-14 22:51:25] Twingate is connected.
+[2025-10-14 22:52:25] Twingate is connected.
+[2025-10-14 22:53:25] Twingate is connected.
+[2025-10-14 22:54:25] Twingate is connected.
+[2025-10-14 22:55:25] Twingate is connected.
+[2025-10-14 22:56:25] Twingate is connected.
+[2025-10-14 22:57:25] Twingate is connected.
+[2025-10-14 22:58:25] Twingate is connected.
+[2025-10-14 22:59:25] Twingate is connected.
+[2025-10-14 23:00:25] Twingate is connected.
+[2025-10-14 23:01:25] Twingate is connected.
+[2025-10-14 23:02:25] Twingate is connected.
+[2025-10-14 23:03:26] Twingate is connected.
+[2025-10-14 23:04:26] Twingate is connected.
+[2025-10-14 23:05:26] Twingate is connected.
+[2025-10-14 23:06:26] Twingate is connected.
+[2025-10-14 23:07:26] Twingate is connected.
+[2025-10-14 23:08:26] Twingate is connected.
+[2025-10-14 23:09:26] Twingate is connected.
+[2025-10-14 23:10:26] Twingate is connected.
+[2025-10-14 23:11:26] Twingate is connected.
+[2025-10-14 23:12:26] Twingate is connected.
+[2025-10-14 23:13:26] Twingate is connected.
+[2025-10-14 23:14:26] Twingate is connected.
+[2025-10-14 23:15:27] Twingate is connected.
+[2025-10-14 23:16:27] Twingate is connected.
+[2025-10-14 23:17:27] Twingate is connected.
+[2025-10-14 23:18:27] Twingate is connected.
+[2025-10-14 23:19:27] Twingate is connected.
+[2025-10-14 23:20:27] Twingate is connected.
+[2025-10-14 23:21:27] Twingate is connected.
+[2025-10-14 23:22:27] Twingate is connected.
+[2025-10-14 23:23:27] Twingate is connected.
+[2025-10-14 23:24:27] Twingate is connected.
+[2025-10-14 23:25:27] Twingate is connected.
+[2025-10-14 23:26:27] Twingate is connected.
+[2025-10-14 23:27:27] Twingate is connected.
+[2025-10-14 23:28:27] Twingate is connected.
+[2025-10-14 23:29:27] Twingate is connected.
+[2025-10-14 23:30:27] Twingate is connected.
+[2025-10-14 23:31:27] Twingate is connected.
+[2025-10-14 23:32:27] Twingate is connected.
+[2025-10-14 23:33:27] Twingate is connected.
+[2025-10-14 23:34:27] Twingate is connected.
+[2025-10-14 23:35:27] Twingate is connected.
+[2025-10-14 23:36:27] Twingate is connected.
+[2025-10-14 23:37:27] Twingate is connected.
+[2025-10-14 23:38:28] Twingate is connected.
+[2025-10-14 23:39:28] Twingate is connected.
+[2025-10-14 23:40:28] Twingate is connected.
+[2025-10-14 23:41:28] Twingate is connected.
+[2025-10-14 23:42:28] Twingate is connected.
+[2025-10-14 23:43:28] Twingate is connected.
+[2025-10-14 23:44:28] Twingate is connected.
+[2025-10-14 23:45:28] Twingate is connected.
+[2025-10-14 23:46:28] Twingate is connected.
+[2025-10-14 23:47:28] Twingate is connected.
+[2025-10-14 23:48:28] Twingate is connected.
+[2025-10-14 23:49:28] Twingate is connected.
+[2025-10-14 23:50:28] Twingate is connected.
+[2025-10-14 23:51:28] Twingate is connected.
+[2025-10-14 23:52:28] Twingate is connected.
+[2025-10-14 23:53:28] Twingate is connected.
+[2025-10-14 23:54:28] Twingate is connected.
+[2025-10-14 23:55:28] Twingate is connected.
+[2025-10-14 23:56:28] Twingate is connected.
+[2025-10-14 23:57:28] Twingate is connected.
+[2025-10-14 23:58:28] Twingate is connected.
+[2025-10-14 23:59:28] Twingate is connected.
+[2025-10-15 00:00:29] Twingate is connected.
+[2025-10-15 00:01:29] Twingate is connected.
+[2025-10-15 00:02:29] Twingate is connected.
+[2025-10-15 00:03:29] Twingate is connected.
+[2025-10-15 00:04:29] Twingate is connected.
+[2025-10-15 00:05:29] Twingate is connected.
+[2025-10-15 00:06:29] Twingate is connected.
+[2025-10-15 00:07:29] Twingate is connected.
+[2025-10-15 00:08:29] Twingate is connected.
+[2025-10-15 00:09:29] Twingate is connected.
+[2025-10-15 00:10:29] Twingate is connected.
+[2025-10-15 00:11:29] Twingate is connected.
+[2025-10-15 00:12:29] Twingate is connected.
+[2025-10-15 00:13:29] Twingate is connected.
+[2025-10-15 00:14:29] Twingate is connected.
+[2025-10-15 00:15:29] Twingate is connected.
+[2025-10-15 00:16:29] Twingate is connected.
+[2025-10-15 00:17:29] Twingate is connected.
+[2025-10-15 00:18:29] Twingate is connected.
+[2025-10-15 00:19:29] Twingate is connected.
+[2025-10-15 00:20:29] Twingate is connected.
+[2025-10-15 00:21:29] Twingate is connected.
+[2025-10-15 00:22:30] Twingate is connected.
+[2025-10-15 00:23:30] Twingate is connected.
+[2025-10-15 00:24:30] Twingate is connected.
+[2025-10-15 00:25:30] Twingate is connected.
+[2025-10-15 00:26:30] Twingate is connected.
+[2025-10-15 00:27:30] Twingate is connected.
+[2025-10-15 00:28:30] Twingate is connected.
+[2025-10-15 00:29:30] Twingate is connected.
+[2025-10-15 00:30:30] Twingate is connected.
+[2025-10-15 00:31:30] Twingate is connected.
+[2025-10-15 00:32:30] Twingate is connected.
+[2025-10-15 00:33:30] Twingate is connected.
+[2025-10-15 00:34:30] Twingate is connected.
+[2025-10-15 00:35:30] Twingate is connected.
+[2025-10-15 00:36:30] Twingate is connected.
+[2025-10-15 00:37:30] Twingate is connected.
+[2025-10-15 00:38:30] Twingate is connected.
+[2025-10-15 00:39:30] Twingate is connected.
+[2025-10-15 00:40:30] Twingate is connected.
+[2025-10-15 00:41:30] Twingate is connected.
+[2025-10-15 00:42:31] Twingate is connected.
+[2025-10-15 00:43:31] Twingate is connected.
+[2025-10-15 00:44:31] Twingate is connected.
+[2025-10-15 00:45:31] Twingate is connected.
+[2025-10-15 00:46:31] Twingate is connected.
+[2025-10-15 00:47:31] Twingate is connected.
+[2025-10-15 00:48:31] Twingate is connected.
+[2025-10-15 00:49:31] Twingate is connected.
+[2025-10-15 00:50:31] Twingate is connected.
+[2025-10-15 00:51:31] Twingate is connected.
+[2025-10-15 00:52:31] Twingate is connected.
+[2025-10-15 00:53:31] Twingate is connected.
+[2025-10-15 00:54:31] Twingate is connected.
+[2025-10-15 00:55:31] Twingate is connected.
+[2025-10-15 00:56:31] Twingate is connected.
+[2025-10-15 00:57:31] Twingate is connected.
+[2025-10-15 00:58:31] Twingate is connected.
+[2025-10-15 00:59:31] Twingate is connected.
+[2025-10-15 01:00:31] Twingate is connected.
+[2025-10-15 01:01:31] Twingate is connected.
+[2025-10-15 01:02:31] Twingate is connected.
+[2025-10-15 01:03:31] Twingate is connected.
+[2025-10-15 01:04:31] Twingate is connected.
+[2025-10-15 01:05:32] Twingate is connected.
+[2025-10-15 01:06:32] Twingate is connected.
+[2025-10-15 01:07:32] Twingate is connected.
+[2025-10-15 01:08:32] Twingate is connected.
+[2025-10-15 01:09:32] Twingate is connected.
+[2025-10-15 01:10:32] Twingate is connected.
+[2025-10-15 01:11:32] Twingate is connected.
+[2025-10-15 01:12:32] Twingate is connected.
+[2025-10-15 01:13:32] Twingate is connected.
+[2025-10-15 01:14:32] Twingate is connected.
+[2025-10-15 01:15:32] Twingate is connected.
+[2025-10-15 01:16:32] Twingate is connected.
+[2025-10-15 01:17:32] Twingate is connected.
+[2025-10-15 01:18:32] Twingate is connected.
+[2025-10-15 01:19:32] Twingate is connected.
+[2025-10-15 01:20:32] Twingate is connected.
+[2025-10-15 01:21:32] Twingate is connected.
+[2025-10-15 01:22:32] Twingate is connected.
+[2025-10-15 01:23:32] Twingate is connected.
+[2025-10-15 01:24:32] Twingate is connected.
+[2025-10-15 01:25:32] Twingate is connected.
+[2025-10-15 01:26:33] Twingate is connected.
+[2025-10-15 01:27:33] Twingate is connected.
+[2025-10-15 01:28:33] Twingate is connected.
+[2025-10-15 01:29:33] Twingate is connected.
+[2025-10-15 01:30:33] Twingate is connected.
+[2025-10-15 01:31:33] Twingate is connected.
+[2025-10-15 01:32:33] Twingate is connected.
+[2025-10-15 01:33:33] Twingate is connected.
+[2025-10-15 01:34:33] Twingate is connected.
+[2025-10-15 01:35:33] Twingate is connected.
+[2025-10-15 01:36:33] Twingate is connected.
+[2025-10-15 01:37:33] Twingate is connected.
+[2025-10-15 01:38:33] Twingate is connected.
+[2025-10-15 01:39:33] Twingate is connected.
+[2025-10-15 01:40:33] Twingate is connected.
+[2025-10-15 01:41:33] Twingate is connected.
+[2025-10-15 01:42:33] Twingate is connected.
+[2025-10-15 08:05:18] Twingate not connected (attempt 1/99). Retrying...
+Twingate Setup 2025.175.154516 | 0.171.0
+[91m"/app/twingate-service-key/service-key.json" doesn't exist[0m
+[2025-10-15 08:05:21] Service key to use is: /app/twingate-service-key/service-key.json.
+[2025-10-15 08:05:21] Retry interval is set to 30 seconds.
+[2025-10-15 08:05:21] [Twingate Gateway] Waiting for tunnel interface (sdwan0) to be available... (attempt 1/12)
+Twingate Setup 2025.175.154516 | 0.171.0
+[91m"/app/twingate-service-key/service-key.json" doesn't exist[0m
+[2025-10-15 08:05:22] Service key to use is: /app/twingate-service-key/service-key.json.
+[2025-10-15 08:05:22] Retry interval is set to 30 seconds.
+[2025-10-15 08:05:22] [Twingate Gateway] Waiting for tunnel interface (sdwan0) to be available... (attempt 1/12)
+Twingate Setup 2025.175.154516 | 0.171.0
+[91m"/app/twingate-service-key/service-key.json" doesn't exist[0m
+[2025-10-15 08:05:23] Service key to use is: /app/twingate-service-key/service-key.json.
+[2025-10-15 08:05:23] Retry interval is set to 30 seconds.
+[2025-10-15 08:05:23] [Twingate Gateway] Waiting for tunnel interface (sdwan0) to be available... (attempt 1/12)
+Twingate Setup 2025.175.154516 | 0.171.0
+[91m"/app/twingate-service-key/service-key.json" doesn't exist[0m
+[2025-10-15 08:05:25] Service key to use is: /app/twingate-service-key/service-key.json.
+[2025-10-15 08:05:25] Retry interval is set to 30 seconds.
+[2025-10-15 08:05:25] [Twingate Gateway] Waiting for tunnel interface (sdwan0) to be available... (attempt 1/12)
+Twingate Setup 2025.175.154516 | 0.171.0
+[91m"/app/twingate-service-key/service-key.json" doesn't exist[0m
+[2025-10-15 08:05:27] Service key to use is: /app/twingate-service-key/service-key.json.
+[2025-10-15 08:05:27] Retry interval is set to 30 seconds.
+[2025-10-15 08:05:27] [Twingate Gateway] Waiting for tunnel interface (sdwan0) to be available... (attempt 1/12)
+Twingate Setup 2025.175.154516 | 0.171.0
+[2025-10-15 08:05:31] Service key to use is: /app/twingate-service-key/service-key.json.
+[2025-10-15 08:05:31] Retry interval is set to 30 seconds.
+[2025-10-15 08:05:31] [Twingate Gateway] Waiting for tunnel interface (sdwan0) to be available... (attempt 1/12)
+Twingate Setup 2025.175.154516 | 0.171.0
+[91m"/app/twingate-service-key/service-key.json" doesn't exist[0m
+[2025-10-15 08:05:38] Service key to use is: /app/twingate-service-key/service-key.json.
+[2025-10-15 08:05:38] Retry interval is set to 30 seconds.
+[2025-10-15 08:05:38] [Twingate Gateway] Waiting for tunnel interface (sdwan0) to be available... (attempt 1/12)
+Twingate Setup 2025.175.154516 | 0.171.0
+[91m"/app/twingate-service-key/service-key.json" doesn't exist[0m
+[2025-10-15 08:05:52] Service key to use is: /app/twingate-service-key/service-key.json.
+[2025-10-15 08:05:52] Retry interval is set to 30 seconds.
+[2025-10-15 08:05:52] [Twingate Gateway] Waiting for tunnel interface (sdwan0) to be available... (attempt 1/12)
+Twingate Setup 2025.175.154516 | 0.171.0
+[91m"/app/twingate-service-key/service-key.json" doesn't exist[0m
+[2025-10-15 08:06:18] Service key to use is: /app/twingate-service-key/service-key.json.
+[2025-10-15 08:06:18] Retry interval is set to 30 seconds.
+[2025-10-15 08:06:18] [Twingate Gateway] Waiting for tunnel interface (sdwan0) to be available... (attempt 1/12)
+Twingate Setup 2025.175.154516 | 0.171.0
+[91m"/app/twingate-service-key/service-key.json" doesn't exist[0m
+[2025-10-15 08:07:10] Service key to use is: /app/twingate-service-key/service-key.json.
+[2025-10-15 08:07:10] Retry interval is set to 30 seconds.
+[2025-10-15 08:07:10] [Twingate Gateway] Waiting for tunnel interface (sdwan0) to be available... (attempt 1/12)
+Twingate Setup 2025.175.154516 | 0.171.0
+[91m"/app/twingate-service-key/service-key.json" doesn't exist[0m
+[2025-10-15 08:08:10] Service key to use is: /app/twingate-service-key/service-key.json.
+[2025-10-15 08:08:10] Retry interval is set to 30 seconds.
+[2025-10-15 08:08:10] [Twingate Gateway] Waiting for tunnel interface (sdwan0) to be available... (attempt 1/12)
+Twingate Setup 2025.175.154516 | 0.171.0
+[91m"/app/twingate-service-key/service-key.json" doesn't exist[0m
+[2025-10-15 08:09:11] Service key to use is: /app/twingate-service-key/service-key.json.
+[2025-10-15 08:09:11] Retry interval is set to 30 seconds.
+[2025-10-15 08:09:11] [Twingate Gateway] Waiting for tunnel interface (sdwan0) to be available... (attempt 1/12)
+Twingate Setup 2025.175.154516 | 0.171.0
+[91m"/app/twingate-service-key/service-key.json" doesn't exist[0m
+[2025-10-15 08:10:11] Service key to use is: /app/twingate-service-key/service-key.json.
+[2025-10-15 08:10:11] Retry interval is set to 30 seconds.
+[2025-10-15 08:10:11] [Twingate Gateway] Waiting for tunnel interface (sdwan0) to be available... (attempt 1/12)
+Twingate Setup 2025.175.154516 | 0.171.0
+[91m"/app/twingate-service-key/service-key.json" doesn't exist[0m
+[2025-10-15 08:11:12] Service key to use is: /app/twingate-service-key/service-key.json.
+[2025-10-15 08:11:12] Retry interval is set to 30 seconds.
+[2025-10-15 08:11:12] [Twingate Gateway] Waiting for tunnel interface (sdwan0) to be available... (attempt 1/12)
+Twingate Setup 2025.175.154516 | 0.171.0
+[91m"/app/twingate-service-key/service-key.json" doesn't exist[0m
+[2025-10-15 08:12:12] Service key to use is: /app/twingate-service-key/service-key.json.
+[2025-10-15 08:12:12] Retry interval is set to 30 seconds.
+[2025-10-15 08:12:12] [Twingate Gateway] Waiting for tunnel interface (sdwan0) to be available... (attempt 1/12)
+Twingate Setup 2025.175.154516 | 0.171.0
+[91m"/app/twingate-service-key/service-key.json" doesn't exist[0m
+[2025-10-15 08:13:13] Service key to use is: /app/twingate-service-key/service-key.json.
+[2025-10-15 08:13:13] Retry interval is set to 30 seconds.
+[2025-10-15 08:13:13] [Twingate Gateway] Waiting for tunnel interface (sdwan0) to be available... (attempt 1/12)
+Twingate Setup 2025.175.154516 | 0.171.0
+[91m"/app/twingate-service-key/service-key.json" doesn't exist[0m

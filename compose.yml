@@ -1,0 +1,31 @@
+services:
+  twingate-headless-client:
+    build: .
+    image: twingate-headless-client
+    container_name: twingate-headless-client
+    restart: always
+    network_mode: host
+    cap_add:
+      - NET_ADMIN
+#      - NET_RAW
+    devices:
+      - /dev/net/tun
+    environment:
+      - 'SERVICE_KEY=/app/service-key/service-key.json'
+      - 'TWINGATE_MAX_RETRIES=99'  # -1 for unlimited retries
+      - 'TWINGATE_RETRY_DELAY=30'  # seconds
+      - 'TG_HST_IFACE=eth0'        # name of docker host interface for traffic forwarding
+      - 'TG_WAN_IFACE=sdwan0'      # name of twingate wan interface for traffic forwarding
+      - 'LOG_FILE=/var/log/twingate-client.log'
+      - 'LOG_ROTATE_HOURS=24'     # Rotate log file every X hours
+      - 'TZ=Asia/Singapore'
+    healthcheck:
+      test: [ "CMD-SHELL", "/app/healthcheck.sh" ]  
+      interval: 2m
+      timeout: 10s
+      retries: 3
+    volumes:
+      - ./app/service-key/:/app/service-key/
+      - ./vol/logs/:/var/log/
+      # Optional: If you want to use D-Bus to manage OS services
+      - /var/run/dbus:/var/run/dbus

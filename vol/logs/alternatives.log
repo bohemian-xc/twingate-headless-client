@@ -1,0 +1,12 @@
+update-alternatives 2025-10-14 10:03:43: run with --set iptables /usr/sbin/iptables-legacy
+update-alternatives 2025-10-14 10:03:43: status of link group /usr/sbin/iptables set to manual
+update-alternatives 2025-10-14 10:03:43: link group iptables updated to point to /usr/sbin/iptables-legacy
+update-alternatives 2025-10-14 10:03:51: run with --set iptables /usr/sbin/ip6tables
+update-alternatives 2025-10-14 10:03:54: run with --set iptables /usr/sbin/ip6tables-legacy
+update-alternatives 2025-10-14 10:05:26: run with --set iptables /usr/sbin/ip6tables-legacy
+update-alternatives 2025-10-14 10:24:43: run with --set iptables /usr/sbin/iptables-legacy
+update-alternatives 2025-10-14 10:24:43: status of link group /usr/sbin/iptables set to manual
+update-alternatives 2025-10-14 10:24:43: link group iptables updated to point to /usr/sbin/iptables-legacy
+update-alternatives 2025-10-14 10:40:48: run with --set iptables /usr/sbin/iptables-legacy
+update-alternatives 2025-10-14 10:40:48: status of link group /usr/sbin/iptables set to manual
+update-alternatives 2025-10-14 10:40:48: link group iptables updated to point to /usr/sbin/iptables-legacy

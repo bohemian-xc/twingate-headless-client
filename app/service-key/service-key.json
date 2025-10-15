@@ -1,0 +1,9 @@
+{
+  "version": "1",
+  "network": "inquiryyt.twingate.com",
+  "service_account_id": "e109f254-bb47-461f-a913-3574a6ae3529",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgmdhzEnQLYRBpqwBL\nUq5W+37Yq3WCx/prbhQW5Br4FsyhRANCAATk10IrI3PQPrrYHkqr1+olj/XljtUy\nYAyqLxcfC/pWxttz7VHm8AnBdZoyqx8RV1FSc1fLSr4HsI7LiRPqxeeF\n-----END PRIVATE KEY-----",
+  "key_id": "GHQyX_t3-6BO16D6RrNlJjdgF2z0mPYDk6vNW_7WsBQ",
+  "expires_at": null,
+  "login_path": "/api/v4/headless/login"
+}

@@ -1,0 +1,14 @@
+[
+  {
+    "Distro": "Ubuntu-Docker",
+    "Subnet": "192.168.1.0",
+    "Mask": "255.255.255.0",
+    "Metric": 10
+  },
+  {
+    "Distro": "UbuntuVPN",
+    "Subnet": "10.10.0.0",
+    "Mask": "255.255.255.0",
+    "Metric": 20
+  }
+]
