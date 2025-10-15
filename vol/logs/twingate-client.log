@@ -987,3 +987,13 @@ Twingate Setup 2025.175.154516 | 0.171.0
 [2025-10-15 08:30:21] [Twingate Gateway] Waiting for tunnel interface (sdwan0) to be available... (attempt 1/12)
 Twingate Setup 2025.175.154516 | 0.171.0
 [91m"/app/twingate-service-key/service-key.json" doesn't exist[0m
+[2025-10-15 08:31:22] Service key to use is: /app/twingate-service-key/service-key.json.
+[2025-10-15 08:31:22] Retry interval is set to 30 seconds.
+[2025-10-15 08:31:22] [Twingate Gateway] Waiting for tunnel interface (sdwan0) to be available... (attempt 1/12)
+Twingate Setup 2025.175.154516 | 0.171.0
+[91m"/app/twingate-service-key/service-key.json" doesn't exist[0m
+[2025-10-15 08:32:22] Service key to use is: /app/twingate-service-key/service-key.json.
+[2025-10-15 08:32:22] Retry interval is set to 30 seconds.
+[2025-10-15 08:32:22] [Twingate Gateway] Waiting for tunnel interface (sdwan0) to be available... (attempt 1/12)
+Twingate Setup 2025.175.154516 | 0.171.0
+[91m"/app/twingate-service-key/service-key.json" doesn't exist[0m
