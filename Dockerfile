@@ -12,6 +12,6 @@ RUN apt-get update && \
     apt-get clean && \
     rm -rf /var/lib/apt/lists/*
 
-COPY entrypoint.sh healthcheck.sh /app/
+COPY /app/entrypoint.sh /app/healthcheck.sh /app/
 
 ENTRYPOINT [ "/app/entrypoint.sh" ]

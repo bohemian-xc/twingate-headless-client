@@ -19,6 +19,9 @@ services:
       - 'LOG_FILE=/var/log/twingate-client.log'
       - 'LOG_ROTATE_HOURS=24'     # Rotate log file every X hours
       - 'TZ=Asia/Singapore'
+    sysctls:
+      - net.ipv4.ip_forward=1
+      - net.ipv6.conf.all.forwarding=1
     healthcheck:
       test: [ "CMD-SHELL", "/app/healthcheck.sh" ]  
       interval: 2m
