@@ -23,7 +23,10 @@ vol/
 vol/**
 
 # Ignore service key JSON file in the app folder
-app/service-key/service-key.json
+app/service-key/*.json
+
+# Ignore host configuration files
+host/*.json
 
 # Ignore dev-container configuration files
 .devcontainer/
