@@ -1,13 +1,17 @@
 services:
   twingate-headless-client:
-    build: .
+    build:
+      context: .
+      dockerfile: Dockerfile
+      network: host
     image: twingate-headless-client
     container_name: twingate-headless-client
     restart: always
     network_mode: host
+    # network_mode: bridge
     cap_add:
       - NET_ADMIN
-#      - NET_RAW
+      - NET_RAW
     devices:
       - /dev/net/tun
     environment:
@@ -19,9 +23,9 @@ services:
       - 'LOG_FILE=/var/log/twingate-client.log'
       - 'LOG_ROTATE_HOURS=24'     # Rotate log file every X hours
       - 'TZ=Asia/Singapore'
-    sysctls:
-      - net.ipv4.ip_forward=1
-      - net.ipv6.conf.all.forwarding=1
+    # sysctls:
+    #   - net.ipv4.ip_forward=1
+    #   - net.ipv6.conf.all.forwarding=1
     healthcheck:
       test: [ "CMD-SHELL", "/app/healthcheck.sh" ]  
       interval: 2m
