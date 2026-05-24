@@ -3,12 +3,12 @@
     "Distro": "Ubuntu-Docker",
     "Subnet": "10.0.0.0",
     "Mask": "255.248.0.0",
-    "Metric": 10
+    "Metric": 501
   },
   {
     "Distro": "Ubuntu-Docker",
     "Subnet": "192.168.1.0",
     "Mask": "255.255.255.0",
-    "Metric": 20
+    "Metric": 500
   }
 ]
